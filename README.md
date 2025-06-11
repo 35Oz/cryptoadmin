@@ -2,7 +2,7 @@
 
 A full-featured MERN stack admin dashboard with authentication, user management, and analytics.
 
-![Admin Dashboard](https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Admin Dashboard]([https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2](https://i.postimg.cc/W1tgCYDY/Screenshot-2025-06-11-000610.png))
 
 ## Features
 
